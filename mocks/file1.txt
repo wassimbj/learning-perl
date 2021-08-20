@@ -1,0 +1,3 @@
+Hello im file1
+
+i must be in file2 now.
