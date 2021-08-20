@@ -1,4 +1,8 @@
 
+#! FILE_HANDLE is a name (any name) to associate it with the physical file
+#! its like setting a variable that points to a physical file in the system
+#! its similar to the assign() function in Pascal
+
 # perl has 2 methodes to open file
 # 1) open(<FILE_HANDLE>, <MODE><FILE_NAME>): Array of file lines
 open(myData, "<mocks/test_file.txt") or die "Couldn't open file test_file.txt, $!";
