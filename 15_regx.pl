@@ -37,7 +37,7 @@ print "\n";
 
 $x = "(+216)00123456";
 
-# btw i didn't copy and paste the below regex, (just learning regex)
+# btw i didn't copy and paste the below regex :), (mozilla has a great explanation)
 if ($x =~ /^(\(\+\d+\))(\d+)/){
    print "Valid number"
 } else {
