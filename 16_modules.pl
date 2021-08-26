@@ -6,4 +6,5 @@ use warnings;
 
 print "OK"
 
-#! More Info: https://learn.perl.org/modules/
+#! More Info: https://learn.perl.org/modules
+#! Examples: https://learn.perl.org/examples
